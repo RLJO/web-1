@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
-{
+{ 
+    
     'name': 'PDF Viewer',
     'summary': 'PDF Viewer Widget.',
     'version': '12.0.1.0.0',
